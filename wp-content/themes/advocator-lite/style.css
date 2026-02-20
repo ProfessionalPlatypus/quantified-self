@@ -65,7 +65,7 @@ Advocator is based on Underscores http://underscores.me/, (C) 2012-2015 Automatt
 --------------------------------------------------------------*/
 @font-face {
   font-family: FontAwesome;
-  src: url("/wp-content/themes/advocator-lite/fonts/fontawesome-webfont.eot#iefix") format("eot"), url("/wp-content/themes/advocator-lite/fonts/fontawesome-webfont.woff") format("woff"), url("/wp-content/themes/advocator-lite/fonts/fontawesome-webfont.ttf") format("truetype"), url("/wp-content/themes/advocator-lite/fonts/fontawesome-webfont.svg#FontAwesome") format("svg"); }
+  src: url("/quantified-self//wp-content/themes/advocator-lite/fonts/fontawesome-webfont.eot#iefix") format("eot"), url("/quantified-self//wp-content/themes/advocator-lite/fonts/fontawesome-webfont.woff") format("woff"), url("/quantified-self//wp-content/themes/advocator-lite/fonts/fontawesome-webfont.ttf") format("truetype"), url("/quantified-self//wp-content/themes/advocator-lite/fonts/fontawesome-webfont.svg#FontAwesome") format("svg"); }
 body, p, blockquote, .format-link, p, pre, address, small, abbr, code, kbd, samp, small, var, form, legend, label, caption {
   font-family: "Open Sans", Verdana, Helvetica, sans-serif; }
 
@@ -654,7 +654,7 @@ article h2.entry-title {
 .featured_image {
   margin-bottom: 30px; }
   .featured_image a.link_hover {
-    background: #fff url("/wp-content/themes/advocator-lite/img/link_hover.png") 50% 50% no-repeat; }
+    background: #fff url("/quantified-self//wp-content/themes/advocator-lite/img/link_hover.png") 50% 50% no-repeat; }
   .featured_image a.link_hover img {
     border: 15px solid #FFFFFF;
     -o-transition: 0.3s;
@@ -1250,7 +1250,7 @@ h2.tribe-events-page-title {
 	9.7 Gallery
 --------------------------------------------------------------*/
 a.image_hover {
-  background: #fff url("/wp-content/themes/advocator-lite/img/image_hover.png") 50% 50% no-repeat; }
+  background: #fff url("/quantified-self//wp-content/themes/advocator-lite/img/image_hover.png") 50% 50% no-repeat; }
   a.image_hover img {
     border: 15px solid #FFFFFF;
     -o-transition: 0.3s;
@@ -1360,18 +1360,18 @@ a.image_hover {
   width: 0;
   margin-top: 10px;
   padding: 28px 125px !important;
-  background: url("/wp-content/themes/advocator-lite/img/paypal_button.png") no-repeat #FFFFFF;
+  background: url("/quantified-self//wp-content/themes/advocator-lite/img/paypal_button.png") no-repeat #FFFFFF;
   box-shadow: 0 0 1px transparent;
   /* Mobile */ }
   @media only screen and (max-width: 40em) {
     #dgx-donate-form input.dgx-donate-pay-enabled input.dgx-donate-pay-enabled {
-      background: url("/wp-content/themes/advocator-lite/img/paypal_button_sm.png") no-repeat #FFFFFF;
+      background: url("/quantified-self//wp-content/themes/advocator-lite/img/paypal_button_sm.png") no-repeat #FFFFFF;
       padding: 28px 100px !important; } }
 #dgx-donate-form img.dgx-donate-pay-disabled {
   height: 0;
   width: 0;
   padding: 28px 125px !important;
-  background: #FFFFFF url("/wp-content/themes/advocator-lite/img/paypal_button.png") no-repeat; }
+  background: #FFFFFF url("/quantified-self//wp-content/themes/advocator-lite/img/paypal_button.png") no-repeat; }
 
 /*--------------------------------------------------------------
 	10.0 Comments
