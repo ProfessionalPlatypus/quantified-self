@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Guest Lectures &#8211; Probing the Limits of the Quantified Self</title>
+	<atom:link href="http://quantified-self.org/category/guestlectures/feed" rel="self" type="application/rss+xml" />
+	<link>http://quantified-self.org</link>
+	<description>Human Agency and Knowledge in Literature &#38; Culture of the Information Age</description>
+	<lastBuildDate>Wed, 26 Apr 2017 13:52:41 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.9.1</generator>
+
+<image>
+	<url>http://quantified-self.org/wp-content/uploads/2016/02/cropped-QS_web_image-32x32.jpeg</url>
+	<title>Guest Lectures &#8211; Probing the Limits of the Quantified Self</title>
+	<link>http://quantified-self.org</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Guest Lecture , Ramón Reichert, November 15, 2016</title>
+		<link>http://quantified-self.org/guest-lecture-ramon-reichert-november-15-2016</link>
+					<comments>http://quantified-self.org/guest-lecture-ramon-reichert-november-15-2016#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 22 Nov 2016 13:54:37 +0000</pubDate>
+				<category><![CDATA[Guest Lectures]]></category>
+		<guid isPermaLink="false">http://quantified-self.org/?p=157</guid>
+
+					<description><![CDATA[Guest Lecture &#8220;Big Data Culture: Zur Konstruktion von großen Datenmengen&#8221; By Ramón Reichert (Donau-Universität Krems, Austria) On Tuesday, 15 November, 2016 5.15 pm &#8211; 6.45 pm Room EW163, University of Mannheim]]></description>
+										<content:encoded><![CDATA[<p style="text-align: center;"><strong>Guest Lecture &#8220;Big Data Culture: Zur Konstruktion von großen Datenmengen&#8221;</strong><br />
+By <strong>Ramón Reichert</strong> (Donau-Universität Krems, Austria)<br />
+On Tuesday, 15 November, 2016<br />
+5.15 pm &#8211; 6.45 pm<br />
+Room EW163, University of Mannheim</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://quantified-self.org/guest-lecture-ramon-reichert-november-15-2016/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Guest Lecture in Erlangen, July 12, 2016</title>
+		<link>http://quantified-self.org/guest-lecture-in-erlangen</link>
+					<comments>http://quantified-self.org/guest-lecture-in-erlangen#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 13 Jul 2016 09:05:09 +0000</pubDate>
+				<category><![CDATA[Guest Lectures]]></category>
+		<guid isPermaLink="false">http://quantified-self.org/?p=116</guid>
+
+					<description><![CDATA[Gastvortrag Erlangen Schober &#124; Guest Lecure Schober]]></description>
+										<content:encoded><![CDATA[<p style="text-align: left;"><a href="http://quantified-self.org/wp-content/uploads/2016/07/Guest-Lecture-Schober.jpg" rel="attachment wp-att-118"><img fetchpriority="high" decoding="async" class="alignnone size-medium wp-image-118" src="http://quantified-self.org/wp-content/uploads/2016/07/Guest-Lecture-Schober-244x300.jpg" alt="Guest Lecture Schober" width="244" height="300" srcset="http://quantified-self.org/wp-content/uploads/2016/07/Guest-Lecture-Schober-244x300.jpg 244w, http://quantified-self.org/wp-content/uploads/2016/07/Guest-Lecture-Schober.jpg 418w" sizes="(max-width: 244px) 100vw, 244px" /></a></p>
+<p><a href="http://quantified-self.org/wp-content/uploads/2016/07/Gastvortrag-Erlangen-Schober.pdf" target="_blank" rel="">Gastvortrag Erlangen Schober | Guest Lecure Schober</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://quantified-self.org/guest-lecture-in-erlangen/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

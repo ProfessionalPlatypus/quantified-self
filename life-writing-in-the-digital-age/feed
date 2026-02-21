@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Call for Papers: Life Writing in the Digital Age: Quantification, Optimization and the Self	</title>
+	<atom:link href="http://quantified-self.org/life-writing-in-the-digital-age/feed" rel="self" type="application/rss+xml" />
+	<link>http://quantified-self.org/life-writing-in-the-digital-age</link>
+	<description>Human Agency and Knowledge in Literature &#38; Culture of the Information Age</description>
+	<lastBuildDate>Thu, 07 Sep 2017 14:18:53 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.9.1</generator>
+</channel>
+</rss>

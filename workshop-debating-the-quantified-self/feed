@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Workshop  &#8211; Debating the Quantified Self, March 4, 2016	</title>
+	<atom:link href="http://quantified-self.org/workshop-debating-the-quantified-self/feed" rel="self" type="application/rss+xml" />
+	<link>http://quantified-self.org/workshop-debating-the-quantified-self</link>
+	<description>Human Agency and Knowledge in Literature &#38; Culture of the Information Age</description>
+	<lastBuildDate>Wed, 26 Apr 2017 13:53:02 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.9.1</generator>
+	<item>
+		<title>
+		By: Dr. Jochen Büchel		</title>
+		<link>http://quantified-self.org/workshop-debating-the-quantified-self#comment-2</link>
+
+		<dc:creator><![CDATA[Dr. Jochen Büchel]]></dc:creator>
+		<pubDate>Wed, 02 Mar 2016 10:09:54 +0000</pubDate>
+		<guid isPermaLink="false">http://quantified-self.org/?p=9#comment-2</guid>
+
+					<description><![CDATA[Great project!!! Anybody dealing with the understanding of molecules in the omics Technologies in Systems Medicine? I deal with this and seek collaboration.
+
+Best 
+
+Jochen Büchel]]></description>
+			<content:encoded><![CDATA[<p>Great project!!! Anybody dealing with the understanding of molecules in the omics Technologies in Systems Medicine? I deal with this and seek collaboration.</p>
+<p>Best </p>
+<p>Jochen Büchel</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
